@@ -1,0 +1,18 @@
+name="sdevi "
+age="23"
+weight=56
+iosteacher=False
+print("Name:",name)
+print("Age:",age)
+print("Weight:",weight)
+print("Is Teacher:",iosteacher)
+print(type(name))
+print(type(age))
+print(type(weight))
+print(type(iosteacher))
+fruits=["apple","banana","mango"]
+print(fruits)   
+print(type(fruits))
+st=(1,2,5,4,6,45)
+print(st)
+print(type(st))
